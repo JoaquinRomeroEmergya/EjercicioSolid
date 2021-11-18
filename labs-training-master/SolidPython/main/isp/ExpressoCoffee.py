@@ -1,0 +1,2 @@
+class ExpressoCoffee():
+    pass

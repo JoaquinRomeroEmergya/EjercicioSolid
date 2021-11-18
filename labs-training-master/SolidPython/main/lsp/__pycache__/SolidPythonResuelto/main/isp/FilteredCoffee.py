@@ -1,2 +1,0 @@
-class FilteredCoffee():
-    pass
